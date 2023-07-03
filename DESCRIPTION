@@ -11,3 +11,4 @@ LazyData: true
 RoxygenNote: 7.2.3
 Imports: TTR, pracma, rtsdata, data.table, plotly, ggplot2, tidyquant, ggrepel, grid, gridExtra
 Remotes: misrori/tradingviewdata
+URL: https://misrori.github.io/stockdata/
