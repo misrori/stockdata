@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://misrori.github.io/stockdata/404.html</loc>
+  </url>
+  <url>
+    <loc>https://misrori.github.io/stockdata/authors.html</loc>
+  </url>
+  <url>
+    <loc>https://misrori.github.io/stockdata/index.html</loc>
+  </url>
+  <url>
+    <loc>https://misrori.github.io/stockdata/reference/add_change_text.html</loc>
+  </url>
+  <url>
+    <loc>https://misrori.github.io/stockdata/reference/download_top_stock.html</loc>
+  </url>
+  <url>
+    <loc>https://misrori.github.io/stockdata/reference/get_one_ticker.html</loc>
+  </url>
+  <url>
+    <loc>https://misrori.github.io/stockdata/reference/get_ticker_info.html</loc>
+  </url>
+  <url>
+    <loc>https://misrori.github.io/stockdata/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>https://misrori.github.io/stockdata/reference/stock_show_one_plot.html</loc>
+  </url>
+</urlset>
