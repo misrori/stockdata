@@ -1,0 +1,13 @@
+Package: stockdata
+Type: Package
+Title: Download stock data with some technical indicators
+Version: 0.1.0
+Author: Mihály Orsós  
+Maintainer: Mihály Orsós <ormraat.pte@gmail.com>
+Description: In this package you will find some functions that will help to download finacial data.
+License: AGPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Imports: TTR, pracma, rtsdata, data.table, plotly, ggplot2, tidyquant, ggrepel, grid, gridExtra
+Remotes: misrori/tradingviewdata
